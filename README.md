@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Waleed Sajid</h1>
-<h3 align="center">Working as a full time frontend developer for past 3 years, where my sole focus is in Angular | JS | TS development areas and improving day by day.</h3>
+<h3 align="center">Working as a full time frontend developer for past 5 years, where my sole focus is in Angular | JS | TS development areas and improving day by day.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=waleedsajid-kt&label=Profile%20views&color=0e75b6&style=flat" alt="waleedsajid-kt" /> </p>
 
